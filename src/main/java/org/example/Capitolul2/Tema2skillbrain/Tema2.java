@@ -1,4 +1,4 @@
-package org.example.Tema2skillbrain;
+package org.example.Capitolul2.Tema2skillbrain;
 
 import java.util.ArrayList;
 import java.util.Arrays;
