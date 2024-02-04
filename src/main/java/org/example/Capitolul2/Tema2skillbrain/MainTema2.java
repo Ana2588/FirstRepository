@@ -9,7 +9,7 @@ public class MainTema2 {
     public static void main(String[] args) {
           cerinta1 ();
 
-          
+
         //cerinta2();
        //  cerinta3();
        //  cerinta4();
